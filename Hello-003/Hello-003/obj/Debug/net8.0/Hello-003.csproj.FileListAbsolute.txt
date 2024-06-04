@@ -12,3 +12,4 @@ C:\Users\KMS505202\Documents\workspace\c#\Hello-003\Hello-003\obj\Debug\net8.0\r
 C:\Users\KMS505202\Documents\workspace\c#\Hello-003\Hello-003\obj\Debug\net8.0\Hello-003.pdb
 C:\Users\KMS505202\Documents\workspace\c#\Hello-003\Hello-003\obj\Debug\net8.0\Hello-003.genruntimeconfig.cache
 C:\Users\KMS505202\Documents\workspace\c#\Hello-003\Hello-003\obj\Debug\net8.0\ref\Hello-003.dll
+C:\Users\KMS505202\Documents\workspace\c#\Hello-003\Hello-003\obj\Debug\net8.0\Hello-003.sourcelink.json
