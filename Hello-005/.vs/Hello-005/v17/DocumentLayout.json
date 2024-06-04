@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KMS505202\\Documents\\workspace\\c#\\Hello-005\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D20D32-F97E-4200-A06D-44CC874970C2}|Hello-005\\Hello-005.csproj|c:\\users\\kms505202\\documents\\workspace\\c#\\hello-005\\hello-005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D20D32-F97E-4200-A06D-44CC874970C2}|Hello-005\\Hello-005.csproj|solutionrelative:hello-005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KMS505202\\Documents\\workspace\\c#\\Hello-005\\Hello-005\\Program.cs",
+              "RelativeDocumentMoniker": "Hello-005\\Program.cs",
+              "ToolTip": "C:\\Users\\KMS505202\\Documents\\workspace\\c#\\Hello-005\\Hello-005\\Program.cs",
+              "RelativeToolTip": "Hello-005\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:49:44.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

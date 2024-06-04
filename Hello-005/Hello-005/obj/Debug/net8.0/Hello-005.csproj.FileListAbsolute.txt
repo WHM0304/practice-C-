@@ -1,0 +1,15 @@
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\bin\Debug\net8.0\Hello-005.exe
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\bin\Debug\net8.0\Hello-005.deps.json
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\bin\Debug\net8.0\Hello-005.runtimeconfig.json
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\bin\Debug\net8.0\Hello-005.dll
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\bin\Debug\net8.0\Hello-005.pdb
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\Hello-005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\Hello-005.AssemblyInfoInputs.cache
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\Hello-005.AssemblyInfo.cs
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\Hello-005.csproj.CoreCompileInputs.cache
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\Hello-005.sourcelink.json
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\Hello-005.dll
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\refint\Hello-005.dll
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\Hello-005.pdb
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\Hello-005.genruntimeconfig.cache
+C:\Users\KMS505202\Documents\workspace\c#\Hello-005\Hello-005\obj\Debug\net8.0\ref\Hello-005.dll
