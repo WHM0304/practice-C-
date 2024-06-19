@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\whm03\\Documents\\workspace\\practice-C#\\project-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D5DA50-FE0B-4DBC-A29A-819998082169}|project-01\\project-01.csproj|c:\\users\\whm03\\documents\\workspace\\practice-c#\\project-01\\project-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D5DA50-FE0B-4DBC-A29A-819998082169}|project-01\\project-01.csproj|solutionrelative:project-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\whm03\\Documents\\workspace\\practice-C#\\project-01\\project-01\\Program.cs",
+              "RelativeDocumentMoniker": "project-01\\Program.cs",
+              "ToolTip": "C:\\Users\\whm03\\Documents\\workspace\\practice-C#\\project-01\\project-01\\Program.cs",
+              "RelativeToolTip": "project-01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:42:42.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
